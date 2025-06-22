@@ -8,6 +8,7 @@
 ### **Screenshots**
 ![Sunny Weather Screenshot](src/images/Sunny_Weather.png)
 ![Rainy Weather Screenshot](src/images/Rainy_Weather.png)
+![Cloudy Weather Screenshot](src/images/Cloudy_Weather.png)
 ---
 ### **Styling & UI Components**
 
